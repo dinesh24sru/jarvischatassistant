@@ -1,0 +1,17 @@
+.MuiTableCell-head {
+    color: #ffff !important;
+    font-weight: bold !important;
+    border-bottom: 2px solid #0F585E !important;
+  }
+  
+  .MuiTableHead-root {
+    background: #0f585e !important;
+  }
+
+  .MuiTableCell-root{
+    font-weight: bold !important;
+  }
+
+  .MuiTableSortLabel-root.MuiTableSortLabel-active{
+    color: #ffff !important;
+  }
